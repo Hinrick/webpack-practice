@@ -1,0 +1,21 @@
+div{
+  width:100%;
+}
+
+.hello-world-button{
+  font-size:20px;
+  padding: 7px 15px;
+  background-color: gray;
+  color: #fff;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+}
+
+
+.hello-world-text{
+  font-size: 30px;
+  margin: auto;
+  font-weight: bold;
+  text-align: center;
+}
